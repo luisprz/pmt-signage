@@ -1,6 +1,6 @@
 {
   "mode": "playlist",
-  "rotation_seconds": 5,
+  "rotation_seconds": 6,
   "refresh_seconds": 30,
   "images": [
     "https://luisprz.github.io/pmt-signage/screens/gala-deli/CateringJPG.jpg",
