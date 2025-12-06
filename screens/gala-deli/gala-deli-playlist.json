@@ -1,9 +1,12 @@
 {
   "mode": "playlist",
-  "rotation_seconds": 15,
+  "rotation_seconds": 5,
   "refresh_seconds": 300,
   "images": [
-    "https://luisprz.github.io/pmt-signage/screens/gala-deli/SantaSpanishJPG.jpg",
+    "https://luisprz.github.io/pmt-signage/screens/gala-deli/CateringJPG.jpg",
+    "https://luisprz.github.io/pmt-signage/screens/gala-deli/CateringPDF.pdf",
+    "https://luisprz.github.io/pmt-signage/screens/gala-deli/ElGalaLogoJPG.jpg",
+    "https://luisprz.github.io/pmt-signage/screens/gala-deli/SantaSpanishJPG.pdf",
     "https://luisprz.github.io/pmt-signage/screens/gala-deli/SantaEnglishJPG.jpg",
     "https://luisprz.github.io/pmt-signage/screens/gala-deli/HurricaneJamaicaRelief.jpg"
   ]
