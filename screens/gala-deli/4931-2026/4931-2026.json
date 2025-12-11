@@ -3,11 +3,19 @@
   "items": [
     {
       "type": "image",
-      "url": "https://example.com/media/promo1.jpg"
+      "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/CateringJPG.jpg"
     },
     {
       "type": "image",
-      "url": "https://example.com/media/promo2.jpg"
+      "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/ElGalaLogoJPG.jpg"
+    },
+    {
+      "type": "image",
+      "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/SantaSpanishJPG.jpg"
+    },
+    {
+      "type": "image",
+      "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/SantaEnglishJPG.jpg"
     }
   ]
 }
