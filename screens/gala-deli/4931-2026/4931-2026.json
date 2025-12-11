@@ -1,21 +1,11 @@
 {
-  "intervalSeconds": 10,
-  "items": [
-    {
-      "type": "image",
-      "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/CateringJPG.jpg"
-    },
-    {
-      "type": "image",
-      "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/ElGalaLogoJPG.jpg"
-    },
-    {
-      "type": "image",
-      "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/SantaSpanishJPG.jpg"
-    },
-    {
-      "type": "image",
-      "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/SantaEnglishJPG.jpg"
-    }
+  "mode": "playlist",
+  "rotation_seconds": 10,
+  "refresh_seconds": 300,
+  "images": [
+    "https://luisprz.github.io/pmt-signage/screens/gala-deli/CateringJPG.jpg",
+    "https://luisprz.github.io/pmt-signage/screens/gala-deli/ElGalaLogoJPG.jpg",
+    "https://luisprz.github.io/pmt-signage/screens/gala-deli/SantaSpanishJPG.jpg",
+    "https://luisprz.github.io/pmt-signage/screens/gala-deli/SantaEnglishJPG.jpg"
   ]
 }
