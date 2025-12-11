@@ -1,0 +1,13 @@
+{
+  "intervalSeconds": 10,
+  "items": [
+    {
+      "type": "image",
+      "url": "https://example.com/media/promo1.jpg"
+    },
+    {
+      "type": "image",
+      "url": "https://example.com/media/promo2.jpg"
+    }
+  ]
+}
