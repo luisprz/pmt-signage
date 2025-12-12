@@ -3,18 +3,6 @@
   "items": [
     {
       "type": "image",
-      "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/CateringJPG.jpg"
-    },
-    {
-      "type": "image",
-      "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/SantaSpanishJPG.jpg"
-    },
-    {
-      "type": "image",
-      "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/SantaEnglishJPG.jpg"
-    },
-    {
-      "type": "image",
       "url": "https://luisprz.github.io/pmt-signage/screens/gala-deli/HurricaneJamaicaRelief.jpg"
     }
   ]
